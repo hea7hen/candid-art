@@ -13,7 +13,7 @@ const notes = [
   },
   {
     body:
-      'My daughter’s first dress is now framed in her nursery. Nuvaira stitched her name in sage thread along the hem. There is nothing else like it.',
+      'My daughter’s first dress is now framed in her nursery. Sowparnika stitched her name in sage thread along the hem. There is nothing else like it.',
     author: 'Ishaan & Meera',
     place: 'Bombay',
     rotate: 2,

@@ -64,7 +64,7 @@ export default function About() {
                     fontStyle="italic"
                     fontSize="22"
                   >
-                    — nuvaira, 2021
+                    — sowparnika, 2021
                   </text>
                 </g>
               </svg>

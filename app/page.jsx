@@ -4,6 +4,7 @@ import Marquee from '@/components/Marquee';
 import About from '@/components/About';
 import Products from '@/components/Products';
 import HowItWorks from '@/components/HowItWorks';
+import Author from '@/components/Author';
 import Testimonials from '@/components/Testimonials';
 import Footer from '@/components/Footer';
 import StitchBackground from '@/components/StitchBackground';
@@ -23,6 +24,7 @@ export default function Page() {
         <About />
         <Products />
         <HowItWorks />
+        <Author />
         <Testimonials />
       </main>
       <Footer />

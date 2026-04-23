@@ -7,6 +7,7 @@ const links = [
   { label: 'Atelier', href: '#about' },
   { label: 'The Shop', href: '#shop' },
   { label: 'How It\u2019s Made', href: '#process' },
+  { label: 'The Maker', href: '#maker' },
   { label: 'Notes', href: '#testimonials' },
 ];
 
